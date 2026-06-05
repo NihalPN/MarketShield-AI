@@ -1,0 +1,10 @@
+# Python ignores
+__pycache__/
+venv/
+*.pyc
+
+# Database ignores (Optional: comment this out if you want to upload your DB for recruiters to test)
+database/techpulse.db
+
+# OS generated files
+.DS_Store

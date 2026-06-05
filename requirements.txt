@@ -1,0 +1,16 @@
+beautifulsoup4==4.14.3
+curl_cffi==0.15.0
+Faker==40.21.0
+feedparser==6.0.12
+matplotlib==3.10.9
+nltk==3.9.4
+numpy==2.4.6
+pandas==3.0.3
+Requests==2.34.2
+seaborn==0.13.2
+spacy==3.8.14
+
+# --- MISSING CORE PIPELINE ENGINE ARCHITECTURE ---
+langchain>=0.1.0
+langchain-community>=0.0.10
+sqlalchemy>=2.0.0
